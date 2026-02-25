@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="6c0eb6-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6tntdb1770188599.jpg" group-title="Events",Real Madrid vs Benfica - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/frofudrljocldrugudr295ifistlsw1w
-#EXTINF:-1 tvg-id="706ac3-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/acbakk1770188595.jpg" group-title="Events",PSG vs Monaco - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/c5phuthukothlwrudro8rosas3b64ini
-#EXTINF:-1 tvg-id="2aef4e-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/pqy12i1770188592.jpg" group-title="Events",Juventus vs Galatasaray - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/kd4hg2fw9pa7un1bs8ml5yq0cx6ozr
 #EXTINF:-1 tvg-id="247-bluey-1" tvg-logo="https://files.catbox.moe/uat9ne.jpg" group-title="24/7",24/7: Bluey - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
