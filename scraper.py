@@ -11,20 +11,14 @@ import os
 GITHUB_USERNAME = "BuddyChewChew"
 REPO_NAME = "via" 
 
-# Proxy Configuration - Update if you use a private proxy provider
-# To use 1.1.1.1 or a specific proxy, format it as "http://IP:PORT"
-PROXIES = {
-    "all://": None  # Change None to "http://your-proxy-address:port" if needed
-}
-
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 async def scrape_via():
     api_url = "https://stra.viaplus.site/main"
+    # EPG URL pointing to the 'via' repo
     epg_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/epg.xml"
     
-    # We apply the proxy to the AsyncClient
-    async with httpx.AsyncClient(timeout=30.0, verify=False, proxy=PROXIES["all://"]) as client:
+    async with httpx.AsyncClient(timeout=30.0, verify=False) as client:
         try:
             response = await client.get(api_url)
             data = response.json()
@@ -38,6 +32,7 @@ async def scrape_via():
                 for event in events:
                     event_name = event.get('name', 'Unknown Event')
                     event_id = event.get('URL', '0')
+                    # Pulling logo directly from the JSON
                     logo = event.get('logo', '') 
                     
                     for stream in event.get('streams', []):
@@ -62,6 +57,7 @@ async def scrape_via():
                 if item["logo"]:
                     ET.SubElement(channel, "icon", src=item["logo"])
                 
+                # 6-hour window for current programming
                 start = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%d%H%M%S +0000")
                 stop = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=6)).strftime("%Y%m%d%H%M%S +0000")
                 prog = ET.SubElement(root, "programme", start=start, stop=stop, channel=item["id"])
