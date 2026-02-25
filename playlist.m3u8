@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="820a92-Board1" tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="Events",2026 Players Championship 6 - Board 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ac4c6912baa637fda94f5ff7ba697703
-#EXTINF:-1 tvg-id="820a92-Board2" tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="Events",2026 Players Championship 6 - Board 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/3e7084a701d3ea9bd9579f5822110c52
-#EXTINF:-1 tvg-id="820a92-Board3" tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="Events",2026 Players Championship 6 - Board 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/9a4ad5ce4b865aa43f05be1d83057a72
-#EXTINF:-1 tvg-id="820a92-Board4" tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="Events",2026 Players Championship 6 - Board 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/387d3589854bd66c3e13bc702e97ffd6
-#EXTINF:-1 tvg-id="ade674-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/jc7mej1770188588.jpg" group-title="Events",Atalanta vs Borussia Dortmund - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/sodrito5weqefradroqa900esw68i9lg
 #EXTINF:-1 tvg-id="6c0eb6-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/6tntdb1770188599.jpg" group-title="Events",Real Madrid vs Benfica - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
