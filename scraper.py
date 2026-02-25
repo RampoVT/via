@@ -7,15 +7,15 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import os
 
-# --- UPDATE THESE FOR YOUR REPO ---
+# Configuration
 GITHUB_USERNAME = "BuddyChewChew"
 REPO_NAME = "via" 
-# ----------------------------------
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 async def scrape_via():
     api_url = "https://stra.viaplus.site/main"
+    # Points to your 'via' repository for the EPG auto-link
     epg_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/epg.xml"
     
     async with httpx.AsyncClient(timeout=30.0, verify=False) as client:
@@ -32,7 +32,7 @@ async def scrape_via():
                 for event in events:
                     event_name = event.get('name', 'Unknown Event')
                     event_id = event.get('URL', '0')
-                    # Pull logo directly from the JSON event object
+                    # Pulling logo directly from the JSON
                     logo = event.get('logo', '') 
                     
                     for stream in event.get('streams', []):
@@ -67,19 +67,19 @@ async def scrape_via():
             with open(os.path.join(BASE_DIR, "epg.xml"), "w") as f:
                 f.write(minidom.parseString(ET.tostring(root)).toprettyxml(indent="  "))
 
-            # --- GENERATE M3U8 WITH JSON LOGOS ---
+            # --- GENERATE M3U8 ---
             with open(os.path.join(BASE_DIR, "playlist.m3u8"), "w") as f:
                 f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
                 for item in valid_streams:
-                    # Construct the logo attribute only if a logo exists in the JSON
                     logo_attr = f' tvg-logo="{item["logo"]}"' if item["logo"] else ""
                     
                     f.write(f'#EXTINF:-1 tvg-id="{item["id"]}"{logo_attr} group-title="{item["group"]}",{item["name"]}\n')
+                    # Headers for the timstreams.lol domain
                     f.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
                     f.write(f'#EXTVLCOPT:http-referrer=https://timstreams.lol/\n')
                     f.write(f'{item["url"]}\n')
 
-            print(f"Success: Processed {len(valid_streams)} streams using JSON logos.")
+            print(f"Success: Found {len(valid_streams)} streams in 'via' repo.")
 
         except Exception as e:
             print(f"Scraper Error: {e}")
