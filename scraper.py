@@ -11,14 +11,20 @@ import os
 GITHUB_USERNAME = "BuddyChewChew"
 REPO_NAME = "via" 
 
+# Proxy Configuration - Update if you use a private proxy provider
+# To use 1.1.1.1 or a specific proxy, format it as "http://IP:PORT"
+PROXIES = {
+    "all://": None  # Change None to "http://your-proxy-address:port" if needed
+}
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 async def scrape_via():
     api_url = "https://stra.viaplus.site/main"
-    # Points to your 'via' repository for the EPG auto-link
     epg_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/epg.xml"
     
-    async with httpx.AsyncClient(timeout=30.0, verify=False) as client:
+    # We apply the proxy to the AsyncClient
+    async with httpx.AsyncClient(timeout=30.0, verify=False, proxy=PROXIES["all://"]) as client:
         try:
             response = await client.get(api_url)
             data = response.json()
@@ -32,7 +38,6 @@ async def scrape_via():
                 for event in events:
                     event_name = event.get('name', 'Unknown Event')
                     event_id = event.get('URL', '0')
-                    # Pulling logo directly from the JSON
                     logo = event.get('logo', '') 
                     
                     for stream in event.get('streams', []):
@@ -74,12 +79,11 @@ async def scrape_via():
                     logo_attr = f' tvg-logo="{item["logo"]}"' if item["logo"] else ""
                     
                     f.write(f'#EXTINF:-1 tvg-id="{item["id"]}"{logo_attr} group-title="{item["group"]}",{item["name"]}\n')
-                    # Headers for the timstreams.lol domain
                     f.write(f'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)\n')
                     f.write(f'#EXTVLCOPT:http-referrer=https://timstreams.lol/\n')
                     f.write(f'{item["url"]}\n')
 
-            print(f"Success: Found {len(valid_streams)} streams in 'via' repo.")
+            print(f"Success: Found {len(valid_streams)} streams.")
 
         except Exception as e:
             print(f"Scraper Error: {e}")
