@@ -15,6 +15,10 @@ https://hmembeds.one/embed/9a4ad5ce4b865aa43f05be1d83057a72
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/387d3589854bd66c3e13bc702e97ffd6
+#EXTINF:-1 tvg-id="ade674-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/jc7mej1770188588.jpg" group-title="Events",Atalanta vs Borussia Dortmund - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/sodrito5weqefradroqa900esw68i9lg
 #EXTINF:-1 tvg-id="247-bluey-1" tvg-logo="https://files.catbox.moe/uat9ne.jpg" group-title="24/7",24/7: Bluey - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
