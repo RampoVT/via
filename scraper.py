@@ -9,7 +9,7 @@ import os
 
 # --- UPDATE THESE FOR YOUR REPO ---
 GITHUB_USERNAME = "BuddyChewChew"
-REPO_NAME = "YOUR_REPO_NAME" 
+REPO_NAME = "via" 
 # ----------------------------------
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
