@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="c7a30a-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b5325159.png" group-title="Events",Lucas Oil Late Model Dirt Series at Ocala Speedway - Live Stream
+#EXTINF:-1 tvg-id="c7a30a-Live Stream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b5325159.png" group-title="Events",Lucas Oil Late Model Dirt Series at Ocala Speedway - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/75fbf0c864d9c443b02783201acc4846
-#EXTINF:-1 tvg-id="ae8b29-PistonsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/okc_vs_det_game_recap_022526_thumbnail-full.png" group-title="Events",Thunder @ Pistons - Pistons Feed
+#EXTINF:-1 tvg-id="ae8b29-ESPN" tvg-logo="https://cdn.nba.com/manage/2026/02/okc_vs_det_game_recap_022526_thumbnail-full.png" group-title="Events",Thunder @ Pistons - ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/10e704f85594c326200855c5d6ac9453
-#EXTINF:-1 tvg-id="ce4b71-RaptorsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/sas_vs_tor_game_recap_022526_thumbnail.png" group-title="Events",Spurs @ Raptors - Raptors Feed
+https://hmembeds.one/embed/tgcyutly3zujtd3bgef8nevyy5v5n301
+#EXTINF:-1 tvg-id="ce4b71-Raptors Feed" tvg-logo="https://cdn.nba.com/manage/2026/02/sas_vs_tor_game_recap_022526_thumbnail.png" group-title="Events",Spurs @ Raptors - Raptors Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/6e5fa8c26ce9c4aa04fccba10e842b42
-#EXTINF:-1 tvg-id="9c2371-GrizzliesFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/gsw_vs_mem_game_recap_022526_thumbnail.png" group-title="Events",Warriors @ Grizzlies - Grizzlies Feed
+https://hmembeds.one/embed/6e5fa8c26ce9c4aa04fccba10e842b42
+#EXTINF:-1 tvg-id="9c2371-Grizzlies Feed" tvg-logo="https://cdn.nba.com/manage/2026/02/gsw_vs_mem_game_recap_022526_thumbnail.png" group-title="Events",Warriors @ Grizzlies - Grizzlies Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/4b9fba630dfd56e32c816c78d86c6102
-#EXTINF:-1 tvg-id="bb72d8-RocketsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/sac_vs_hou_game_recap_022526_thumbnail.png" group-title="Events",Kings @ Rockets - Rockets Feed
+https://hmembeds.one/embed/4b9fba630dfd56e32c816c78d86c6102
+#EXTINF:-1 tvg-id="bb72d8-Rockets Feed" tvg-logo="https://cdn.nba.com/manage/2026/02/sac_vs_hou_game_recap_022526_thumbnail.png" group-title="Events",Kings @ Rockets - Rockets Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/d2f943c731a31d88bee06ad055269859
-#EXTINF:-1 tvg-id="7d312c-BucksFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/cle_vs_mil_game_recap_022526_thumbnail.png" group-title="Events",Cavaliers @ Bucks - Bucks Feed
+https://hmembeds.one/embed/d2f943c731a31d88bee06ad055269859
+#EXTINF:-1 tvg-id="7d312c-Bucks Feed" tvg-logo="https://cdn.nba.com/manage/2026/02/cle_vs_mil_game_recap_022526_thumbnail.png" group-title="Events",Cavaliers @ Bucks - Bucks Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/67f8621c027b45338cbd41695ea4eb55
-#EXTINF:-1 tvg-id="b381f7-NuggetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/bos_vs_den_game_recap_022526_thumbnail.png" group-title="Events",Celtics @ Nuggets - Nuggets Feed
+https://hmembeds.one/embed/67f8621c027b45338cbd41695ea4eb55
+#EXTINF:-1 tvg-id="b381f7-ESPN" tvg-logo="https://cdn.nba.com/manage/2026/02/bos_vs_den_game_recap_022526_thumbnail.png" group-title="Events",Celtics @ Nuggets - ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/47e65dc20316a42fb305661d10c3ef7e
-#EXTINF:-1 tvg-id="375be0-LiveStream" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER 2 - Live Stream
+https://hmembeds.one/embed/tgcyutly3zujtd3bgef8nevyy5v5n301
+#EXTINF:-1 tvg-id="375be0-Live Stream" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER 2 - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/cbbb8a5963cd0262364d91827ce6a088
@@ -35,23 +35,23 @@ https://hmembeds.one/embed/cbbb8a5963cd0262364d91827ce6a088
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/977fe17a1d0e489788c4317f183b52c8
-#EXTINF:-1 tvg-id="247-dragon-ball-DragonBall(1986to1989)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball (1986 to 1989)
+#EXTINF:-1 tvg-id="247-dragon-ball-Dragon Ball (1986 to 1989)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball (1986 to 1989)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/V7fi53ovudaDRADa7RaSW5DrEVajAc1s
-#EXTINF:-1 tvg-id="247-dragon-ball-DragonBallZ(1996to2003)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball Z (1996 to 2003)
+#EXTINF:-1 tvg-id="247-dragon-ball-Dragon Ball Z (1996 to 2003)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball Z (1996 to 2003)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/pH1yC6tG9rU2pL5zQ0nH3sI8wB4tFi
-#EXTINF:-1 tvg-id="247-dragon-ball-DragonBallGT(1996to1997)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball GT (1996 to 1997)
+#EXTINF:-1 tvg-id="247-dragon-ball-Dragon Ball GT (1996 to 1997)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball GT (1996 to 1997)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/5F710362AC8355B156420AC6DA2269F1
-#EXTINF:-1 tvg-id="247-dragon-ball-DragonBallSuper(2015to2018)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball Super (2015 to 2018)
+#EXTINF:-1 tvg-id="247-dragon-ball-Dragon Ball Super (2015 to 2018)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball Super (2015 to 2018)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/88D86E4D8C26C641968D84A8F1C4A54B
-#EXTINF:-1 tvg-id="247-dragon-ball-DragonBallDaima(2024to2025)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball Daima (2024 to 2025)
+#EXTINF:-1 tvg-id="247-dragon-ball-Dragon Ball Daima (2024 to 2025)" tvg-logo="https://deadline.com/wp-content/uploads/2024/07/Dragon-Ball-Series_c42772.jpg" group-title="24/7",24/7: Dragon Ball Franchise - Dragon Ball Daima (2024 to 2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/BA694118A4FAA2F21B0A94EEF51DD23E
