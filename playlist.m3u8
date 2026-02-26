@@ -1,32 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="c7a30a-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b5325159.png" group-title="Events",Lucas Oil Late Model Dirt Series at Ocala Speedway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/75fbf0c864d9c443b02783201acc4846
-#EXTINF:-1 tvg-id="ae8b29-ESPN" tvg-logo="https://cdn.nba.com/manage/2026/02/okc_vs_det_game_recap_022526_thumbnail-full.png" group-title="Events",Thunder @ Pistons - ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/tgcyutly3zujtd3bgef8nevyy5v5n301
-#EXTINF:-1 tvg-id="ce4b71-RaptorsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/sas_vs_tor_game_recap_022526_thumbnail.png" group-title="Events",Spurs @ Raptors - Raptors Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/6e5fa8c26ce9c4aa04fccba10e842b42
-#EXTINF:-1 tvg-id="9c2371-GrizzliesFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/gsw_vs_mem_game_recap_022526_thumbnail.png" group-title="Events",Warriors @ Grizzlies - Grizzlies Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/4b9fba630dfd56e32c816c78d86c6102
-#EXTINF:-1 tvg-id="bb72d8-RocketsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/sac_vs_hou_game_recap_022526_thumbnail.png" group-title="Events",Kings @ Rockets - Rockets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/d2f943c731a31d88bee06ad055269859
-#EXTINF:-1 tvg-id="7d312c-BucksFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/cle_vs_mil_game_recap_022526_thumbnail.png" group-title="Events",Cavaliers @ Bucks - Bucks Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/67f8621c027b45338cbd41695ea4eb55
 #EXTINF:-1 tvg-id="b381f7-ESPN" tvg-logo="https://cdn.nba.com/manage/2026/02/bos_vs_den_game_recap_022526_thumbnail.png" group-title="Events",Celtics @ Nuggets - ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/tgcyutly3zujtd3bgef8nevyy5v5n301
+#EXTINF:-1 tvg-id="b878bf-LiveStream" tvg-logo="https://i.imgur.gg/aJIh9FG-image-45_1771872893.webp" group-title="Events",MotoGP-2&3: Buriram - Free Practice - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/c5phuthukothlwrudro8rosas3b64ini
 #EXTINF:-1 tvg-id="375be0-LiveStream" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
