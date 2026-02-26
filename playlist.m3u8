@@ -1,52 +1,24 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="0dd351-LiveStream" tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/620x620/1b3f5cb0-be6f-11f0-80b6-e7897a370fda.jpg" group-title="Events",BetMGM Premier League Night 4 - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/467678616e100aa95dc9be2a03861844
-#EXTINF:-1 tvg-id="624cb2-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9won1r1769682494.jpg" group-title="Events",Santos vs Vasco da Gama  - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/5e01e1f283f1c209232f0729f4970f6e
 #EXTINF:-1 tvg-id="564078-PacersFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/cha_vs_ind_game_recap_022626_thumbnail.png" group-title="Events",Hornets @ Pacers - Pacers Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://cstream.fit/embed/8cf8e2c92ff71a23f21e5db93dffae66
-#EXTINF:-1 tvg-id="564078-HornetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/cha_vs_ind_game_recap_022626_thumbnail.png" group-title="Events",Hornets @ Pacers - Hornets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/b4a60845a697d469a6532e537690beb2
 #EXTINF:-1 tvg-id="9d7470-76ersFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/mia_vs_phi_game_recap_022626_thumbnail.png" group-title="Events",Heat @ 76ers - 76ers Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://cstream.fit/embed/39a2488e3227670e054eec91856b5071
-#EXTINF:-1 tvg-id="9d7470-HeatFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/mia_vs_phi_game_recap_022626_thumbnail.png" group-title="Events",Heat @ 76ers - Heat Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/20789654f1eafbe9a74a927753e87623
 #EXTINF:-1 tvg-id="dcc101-HawksFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/was_vs_atl_game_recap_022626_thumbnail.png" group-title="Events",Wizards @ Hawks - Hawks Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://cstream.fit/embed/f16184dec38107d9c4e54a310f4c8563
-#EXTINF:-1 tvg-id="dcc101-WizardsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/was_vs_atl_game_recap_022626_thumbnail.png" group-title="Events",Wizards @ Hawks - Wizards Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/b518a13bbdb7c7ecdf429c594ceff373
 #EXTINF:-1 tvg-id="b0a48d-NetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/sas_vs_bkn_game_recap_022626_thumbnail.png" group-title="Events",Spurs @ Nets - Nets Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://cstream.fit/embed/d858b8aa082bf8d933d28e5b7e66fe15
-#EXTINF:-1 tvg-id="b0a48d-SpursFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/sas_vs_bkn_game_recap_022626_thumbnail.png" group-title="Events",Spurs @ Nets - Spurs Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/83fb6375261d3d4e58ef81e66f48d8c5
 #EXTINF:-1 tvg-id="8e9267-MagicFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/hou_vs_orl_game_recap_022626_thumbnail.png" group-title="Events",Rockets @ Magic - Magic Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://cstream.fit/embed/01f79063a4c2217de767a498bcfc69b5
-#EXTINF:-1 tvg-id="8e9267-RocketsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/hou_vs_orl_game_recap_022626_thumbnail.png" group-title="Events",Rockets @ Magic - Rockets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://cstream.fit/embed/ccb509845022510e2401942668e93c04
 #EXTINF:-1 tvg-id="b07db0-BullsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/por_vs_chi_game_recap_022626_thumbnail.png" group-title="Events",Trail Blazers @ Bulls - Bulls Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
