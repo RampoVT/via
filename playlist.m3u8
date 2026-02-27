@@ -1,25 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="375be0-PAYPERVIEWFEED" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER - PAY PER VIEW FEED
+#EXTINF:-1 tvg-id="375be0-LiveStream" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/3b1c438b11b1524a0316b043a03a5ee1
-#EXTINF:-1 tvg-id="d971fe-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mpst9d1750320823.jpg" group-title="Events",Wolverhampton Wanderers vs Aston Villa - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/probiniboc7ltizegevusplstaclmlbr
-#EXTINF:-1 tvg-id="4453ca-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/womjiz1751450249.jpg" group-title="Events",Levante vs Deportivo Alavés - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/df47b460b11f68ae7b016d5d37e759ff
 #EXTINF:-1 tvg-id="01d2b6-LiveStream" tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/02/20260225SD_Match_EC26Preview_16x9_Friday.jpg" group-title="Events",WWE: Friday Night Smackdown - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/8b6ce40f63e55a0f041b6b50c22fca31
-#EXTINF:-1 tvg-id="3cafef-YOUTUBEFEED" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - YOUTUBE FEED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://www.youtube.com/embed/MAlfJgzaS9U?si=akpgUv_3jhOzuIZ5
-#EXTINF:-1 tvg-id="3cafef-PAYPERVIEWFEED" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - PAY PER VIEW FEED
+#EXTINF:-1 tvg-id="3cafef-LiveStream" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/ea93d5bf67b80391b2e599d64caa579e
