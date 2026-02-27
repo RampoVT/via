@@ -1,16 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="7ef1e7-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5wdme29khu66hc7tesry50n6t_image-header_pCa_1739796889000/fill/none/top/none/100/1280/720/webp/image" group-title="Events",UEFA Champions League: Knockout Stage Draw - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ceswuphe1islp6ray6nemozltr4x7w4b
-#EXTINF:-1 tvg-id="078e23-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ce6eyx4tqveuvuzvzq4cwumsr_image-header_pCa_1756210303000/fill/none/top/none/100/1280/720/webp/image" group-title="Events",UEFA Conference League: Knockout Stage Draw - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/aefd3c131ca0993e0a63512e659b1d57
 #EXTINF:-1 tvg-id="375be0-LiveStream" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://www.youtube.com/embed/JddNB59-jgY?si=VZRoTID8Hc1FbCqN
+https://www.youtube.com/embed/dBulbjj5jJU?si=CM29OfqvJgl3Nadt
+#EXTINF:-1 tvg-id="d971fe-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/mpst9d1750320823.jpg" group-title="Events",Wolverhampton Wanderers vs Aston Villa - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/probiniboc7ltizegevusplstaclmlbr
 #EXTINF:-1 tvg-id="3cafef-LiveStream" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
