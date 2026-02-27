@@ -1,13 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="b878bf-LiveStream" tvg-logo="https://i.imgur.gg/aJIh9FG-image-45_1771872893.webp" group-title="Events",MotoGP-2&3: Buriram - Free Practice - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/c5phuthukothlwrudro8rosas3b64ini
 #EXTINF:-1 tvg-id="7ef1e7-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5wdme29khu66hc7tesry50n6t_image-header_pCa_1739796889000/fill/none/top/none/100/1280/720/webp/image" group-title="Events",UEFA Champions League: Knockout Stage Draw - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ceswuphe1islp6ray6nemozltr4x7w4b
-#EXTINF:-1 tvg-id="c82627-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dmouai5s27tzzcy16qms3129u_image-header_pCa_1739796889000/fill/none/top/none/100/1280/720/webp/image" group-title="Events",UEFA Europa League: Knockout Stage Draw - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/ceswuphe1islp6ray6nemozltr4x7w4b
