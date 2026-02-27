@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="375be0-YOUTUBEFEED" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER - YOUTUBE FEED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://www.youtube.com/embed/ZgXQxr0glIg?si=ZVUz73uJcC9PlVXg
 #EXTINF:-1 tvg-id="375be0-PAYPERVIEWFEED" tvg-logo="https://i.imgur.gg/ADBGonL-GROMDA24.png" group-title="Events",GROMDA 24: POLSKA SIŁA vs BLACK POWER - PAY PER VIEW FEED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
