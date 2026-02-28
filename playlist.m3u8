@@ -3,15 +3,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/13e5d5a5a553e0a01095969984a42a4d
-#EXTINF:-1 tvg-id="306830-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/oxrry01754808726.jpg" group-title="Events",Rennes vs Toulouse - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/afdb73c451239369681c5e34207bf17a
 #EXTINF:-1 tvg-id="305411-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/p4v9nh1750320812.jpg" group-title="Events",Leeds United vs Manchester City - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/e25132915cf1e67759051cac80b42275
-#EXTINF:-1 tvg-id="3cafef-LiveStream" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Live Stream
+#EXTINF:-1 tvg-id="3cafef-YoutubePrelims" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Youtube Prelims
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://www.youtube.com/embed/MAlfJgzaS9U?si=9Cwk2-OGuSFnT4Xc
+#EXTINF:-1 tvg-id="3cafef-PayPerview" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Pay Per view
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/ea93d5bf67b80391b2e599d64caa579e
