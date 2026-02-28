@@ -1,36 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="325970-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/69978a1ad9364.png" group-title="Events",World Series of Pro Mod at Bradenton Motorsports Park - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/d5553a7fa0b55501ec1bf4416792021b
-#EXTINF:-1 tvg-id="aba9e9-PistonsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/cle_vs_det_game_recap_022726_thumbnail-full.png" group-title="Events",Cavaliers @ Pistons - Pistons Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/18f5a1baf1e8b7be6f7fcfe3af9a6376
-#EXTINF:-1 tvg-id="6d1555-CelticsFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/bkn_vs_bos_game_recap_022726_thumbnail.png" group-title="Events",Nets @ Celtics - Celtics Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8b1698bdd88aae30b2eb53853db93dba
-#EXTINF:-1 tvg-id="f4ac17-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/69949bf26a649.png" group-title="Events",SCDRA Sport Compact World Championship at Penton Raceway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/6823990b4cf8b34882b790e16f65934f
-#EXTINF:-1 tvg-id="a37ba0-BucksFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/nyk_vs_mil_game_recap_022726_thumbnail.png" group-title="Events",Knicks @ Bucks - Bucks Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/79d7d7c2da80fc708db8043eabb3958a
-#EXTINF:-1 tvg-id="01d2b6-LiveStream" tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl_r/public/2026/02/20260225SD_Match_EC26Preview_16x9_Friday.jpg" group-title="Events",WWE: Friday Night Smackdown - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8b6ce40f63e55a0f041b6b50c22fca31
-#EXTINF:-1 tvg-id="dcd2bc-MavericksFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/mem_vs_dal_game_recap_022726_thumbnail-full-1.png" group-title="Events",Grizzlies @ Mavericks - Mavericks Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/e5e11957ffa72e246b4df71142860eae
-#EXTINF:-1 tvg-id="683b9e-ThunderFeed" tvg-logo="https://cdn.nba.com/manage/2026/02/den_vs_okc_game_recap_022726_thumbnail-1.png" group-title="Events",Nuggets @ Thunder - Thunder Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/45ff3e5714bae65cfd694ca7c88d62f2
 #EXTINF:-1 tvg-id="3cafef-LiveStream" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
