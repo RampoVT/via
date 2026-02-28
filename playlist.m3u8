@@ -1,8 +1,68 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="61075d-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3f24jl1750320801.jpg" group-title="Events",AFC Bournemouth vs Sunderland - Live Stream
+#EXTINF:-1 tvg-id="61075d-DAZN" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3f24jl1750320801.jpg" group-title="Events",AFC Bournemouth vs Sunderland - DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/07207bdd3cd651e2f3914fb5b00126ae
+#EXTINF:-1 tvg-id="61075d-TNTSports1" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3f24jl1750320801.jpg" group-title="Events",AFC Bournemouth vs Sunderland - TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/frofudrljocldrugudr295ifistlsw1w
+#EXTINF:-1 tvg-id="2c9e33-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/imku851751450252.jpg" group-title="Events",Rayo Vallecano vs Athletic Club - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/a643f0a6298749a226cd169e39f60f05
+#EXTINF:-1 tvg-id="648fb5-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/qp5qco1755934746.jpg" group-title="Events",Como vs Lecce - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/81b11c7f350f5d34924580e8f00fee05
+#EXTINF:-1 tvg-id="ddb74b-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/6n2re51754041651.jpg" group-title="Events",Borussia Mgladbach vs Union Berlin - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/ae38ce01c004dd39ed363e1615df511c
+#EXTINF:-1 tvg-id="dbaf6c-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ul5ip61754041673.jpg" group-title="Events",Werder Bremen vs Heidenheim - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/7669ea9e7cd876bfd25b8f536f499e89
+#EXTINF:-1 tvg-id="abe890-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bq68u11754041666.jpg" group-title="Events",Hoffenheim vs St. Pauli - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/35587c13ab60adcadfa21787ef871b8c
+#EXTINF:-1 tvg-id="6fd536-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/hk3iov1754041648.jpg" group-title="Events",Bayer Leverkusen vs Mainz 05 - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/3b9b2e211b913c6f0ccd72cd7f53649a
+#EXTINF:-1 tvg-id="232f44-DAZN" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/khcwp81750320806.jpg" group-title="Events",Burnley vs Brentford - DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/fc173fcd0a176463360afc8c6b4ce306
+#EXTINF:-1 tvg-id="232f44-SkySport7NZ" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/khcwp81750320806.jpg" group-title="Events",Burnley vs Brentford - Sky Sport 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d
+#EXTINF:-1 tvg-id="726a52-DAZN" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/a5mls01750320814.jpg" group-title="Events",Liverpool vs West Ham United - DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/ac0d5ce6c586e13fe8368804138cffca
+#EXTINF:-1 tvg-id="726a52-SkySport5NZ" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/a5mls01750320814.jpg" group-title="Events",Liverpool vs West Ham United - Sky Sport 5 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d
+#EXTINF:-1 tvg-id="3b774a-DAZN" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gkqeup1750320820.jpg" group-title="Events",Newcastle United vs Everton - DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/7bc9523abf7790f63412e12c520e8d5e
+#EXTINF:-1 tvg-id="3b774a-SkySport6NZ" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/gkqeup1750320820.jpg" group-title="Events",Newcastle United vs Everton - Sky Sport 6 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/f1e2d3c4b5a698786543210fedcba987
+#EXTINF:-1 tvg-id="d0bcfe-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/pu7z9w1751450243.jpg" group-title="Events",Barcelona vs Villarreal - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/55882218c27f50d52e98c9270cda08d7
+#EXTINF:-1 tvg-id="306830-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/oxrry01754808726.jpg" group-title="Events",Rennes vs Toulouse - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/afdb73c451239369681c5e34207bf17a
 #EXTINF:-1 tvg-id="3cafef-LiveStream" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
