@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
+#EXTINF:-1 tvg-id="61075d-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/3f24jl1750320801.jpg" group-title="Events",AFC Bournemouth vs Sunderland - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/frofudrljocldrugudr295ifistlsw1w
 #EXTINF:-1 tvg-id="3cafef-LiveStream" tvg-logo="https://i.imgur.gg/2TJXBUO-EVW22.jpg" group-title="Events",East vs. West ArmWresting 22: Vienna - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
