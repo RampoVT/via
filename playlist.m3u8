@@ -23,10 +23,22 @@ https://hmembeds.one/embed/1f1d0766ad64e7a38d2c188210d34d06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/79a4b5e4a9cbfb432c087f4b0e036247
+#EXTINF:-1 tvg-id="3f0693-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/02/24/2-28-26_ASCS-1767022944641-1771958793095.webp?impolicy=resize&w=1920&h=1080" group-title="Events",Central Arizona Raceway - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/67c1082da1ab5ccc934f0e9829f1d981
+#EXTINF:-1 tvg-id="3542c2-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/66184f8caa0ed.png" group-title="Events",ARCA West at Kevin Harvick's Kern Raceway - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/4bbaa81ca0e32ae643bcf2ce0c2623f9
 #EXTINF:-1 tvg-id="1a7497-LiveStream" tvg-logo="https://i.imgur.com/sWhCe4t.png" group-title="Events",Fame MMA 30: Icons - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/ae9c5de874d133c843df5b6d5ecbf27c
+#EXTINF:-1 tvg-id="evw-22-REPLAY" tvg-logo="https://i.imgur.com/FW4hxWA.jpeg" group-title="Replays",East vs. West ArmWresting 22: Vienna - REPLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/ea93d5bf67b80391b2e599d64caa579e
 #EXTINF:-1 tvg-id="247-bluey-1" tvg-logo="https://files.catbox.moe/uat9ne.jpg" group-title="24/7",24/7: Bluey - 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
