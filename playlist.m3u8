@@ -1,16 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="5b2d1c-English" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/oqd3fu1771534335.jpg" group-title="Events",India vs West Indies - English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8a607afa3ed1cc0a7ecced4ad5c42c2c
-#EXTINF:-1 tvg-id="5b2d1c-Hindi" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/oqd3fu1771534335.jpg" group-title="Events",India vs West Indies - Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/e5aef0ca3f8d30e216d49a8a2b78a6e4
-#EXTINF:-1 tvg-id="04eee7-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/adhcg81750320799.jpg" group-title="Events",Arsenal vs Chelsea - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/e25132915cf1e67759051cac80b42275
 #EXTINF:-1 tvg-id="067cae-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/18/2026-Thumbnail-3-1-26-1763490099269.png?impolicy=resize&w=1920&h=1080" group-title="Events",Volusia Speedway Park - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
