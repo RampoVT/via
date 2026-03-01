@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="test-LiveStream" group-title="Events",test - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://grand-s-v001.faggotsports.tv/out/v1/sy1bx6ca8rm3wq7in9jv2pe5hu0lgf/mix-stream.m3u8
 #EXTINF:-1 tvg-id="067cae-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/18/2026-Thumbnail-3-1-26-1763490099269.png?impolicy=resize&w=1920&h=1080" group-title="Events",Volusia Speedway Park - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
