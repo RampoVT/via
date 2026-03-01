@@ -1,36 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="060168-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/69978a1ad9364.png" group-title="Events",World Series of Pro Mod at Bradenton Motorsports Park - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/13e5d5a5a553e0a01095969984a42a4d
-#EXTINF:-1 tvg-id="fde1b7-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/67b4b93ebdc5e.png" group-title="Events",CARS Tour at Southern National Motorsports Park - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/7d419681ba4255bfcc9ed1d7621fdd03
-#EXTINF:-1 tvg-id="7fbe5c-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/6230ab2a637e7.png" group-title="Events",SMART Modified Tour at Florence Motor Speedway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/a3b2455b8b7233d8dc3528324062b538
-#EXTINF:-1 tvg-id="c5ef80-LiveStream" tvg-logo="https://i.imgur.gg/mznAxW4-022826-ufc-fight-night-moreno-vs-kavanagh-EVENT-ART.avif" group-title="Events",UFC Fight Night: Moreno vs. Kavanagh - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/00690379cf228689902f5eb4f7b48d63
-#EXTINF:-1 tvg-id="6e2d49-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b5325159.png" group-title="Events",Lucas Oil Late Model Dirt Series at Ocala Speedway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/1f1d0766ad64e7a38d2c188210d34d06
-#EXTINF:-1 tvg-id="273e75-LiveStream" tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_l/public/2026/02/ec26_punkfinn_16x9_clean_720.jpg" group-title="Events",WWE: Elimination Chamber 2026 - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/79a4b5e4a9cbfb432c087f4b0e036247
-#EXTINF:-1 tvg-id="3f0693-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/02/24/2-28-26_ASCS-1767022944641-1771958793095.webp?impolicy=resize&w=1920&h=1080" group-title="Events",Central Arizona Raceway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/67c1082da1ab5ccc934f0e9829f1d981
-#EXTINF:-1 tvg-id="3542c2-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/66184f8caa0ed.png" group-title="Events",ARCA West at Kevin Harvick's Kern Raceway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/4bbaa81ca0e32ae643bcf2ce0c2623f9
 #EXTINF:-1 tvg-id="1a7497-LiveStream" tvg-logo="https://i.imgur.com/sWhCe4t.png" group-title="Events",Fame MMA 30: Icons - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
