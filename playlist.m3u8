@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
+#EXTINF:-1 tvg-id="bc536b-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/39ir851751450254.jpg" group-title="Events",Real Madrid vs Getafe - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/03b0b886a6f5016d2d70c0d1fd307ab8
+#EXTINF:-1 tvg-id="069481-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/19/3-2-26_SC-1763575389501.png?impolicy=resize&w=1920&h=1080" group-title="Events",Volusia Speedway Park - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/3203556733e064509e4fc04fec6cfefe
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
