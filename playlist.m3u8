@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="067cae-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/18/2026-Thumbnail-3-1-26-1763490099269.png?impolicy=resize&w=1920&h=1080" group-title="Events",Volusia Speedway Park - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/b9dbdaf5e94e1032515a69ba2749bdb4
-#EXTINF:-1 tvg-id="ef0535-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/02/24/3-1-26_ASCS-1767023070596-1771959548687.webp?impolicy=resize&w=1920&h=1080" group-title="Events",Central Arizona Raceway - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/81c3b370f4a8faa302016a630ecff079
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
