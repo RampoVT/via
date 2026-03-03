@@ -1,28 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="306a5c-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/drg3b61750320828.jpg" group-title="Events",AFC Bournemouth vs Brentford - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8esim7bratiq3cadaxes34tesibropop
-#EXTINF:-1 tvg-id="0b46d5-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/zwszf31750320839.jpg" group-title="Events",Leeds United vs Sunderland - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/c5phuthukothlwrudro8rosas3b64ini
-#EXTINF:-1 tvg-id="20570a-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/ziywew1750320833.jpg" group-title="Events",Everton vs Burnley - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/sodrito5weqefradroqa900esw68i9lg
-#EXTINF:-1 tvg-id="d58e8a-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vb5gs31772524899.jpg" group-title="Events",Como vs Internazionale - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ceswuphe1islp6ray6nemozltr4x7w4b
-#EXTINF:-1 tvg-id="605389-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/vgx8d01770993318.jpg" group-title="Events",Barcelona vs Atlético Madrid - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ae5dt9yh2uj8gp1zwn7fk4ol6mv3cb
-#EXTINF:-1 tvg-id="773237-LiveStream" tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kyitnv1750320849.jpg" group-title="Events",Wolverhampton Wanderers vs Liverpool - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/frofudrljocldrugudr295ifistlsw1w
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
