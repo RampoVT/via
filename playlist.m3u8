@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="069481-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/19/3-2-26_SC-1763575389501.png?impolicy=resize&w=1920&h=1080" group-title="Events",Volusia Speedway Park - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/3203556733e064509e4fc04fec6cfefe
-#EXTINF:-1 tvg-id="8e8335-WizardsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/hou_vs_was_game_recap_030226_thumbnail.png" group-title="Events",Rockets @ Wizards - Wizards Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/d0d7ba5d4490e765efb82404ab0ecef5
-#EXTINF:-1 tvg-id="8e8335-RocketsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/hou_vs_was_game_recap_030226_thumbnail.png" group-title="Events",Rockets @ Wizards - Rockets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/3924b9ceb193412bfca45b44c0d96de6
-#EXTINF:-1 tvg-id="2eff2b-NationalFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/bos_vs_mil_game_recap_030226_thumbnail-2.png" group-title="Events",Celtics @ Bucks - National Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/c1a7616145b008f6bffc99a40380c422
-#EXTINF:-1 tvg-id="491585-LiveStream" tvg-logo="https://www.wwe.com/f/styles/wwe_16_9_xl_r/public/2025/11/20251121_RAW_Netflix_Match_Roman_16x9_Tonight.jpg" group-title="Events",WWE: Monday Night RAW - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/731b348d93745fc96e21930c7d28b794
-#EXTINF:-1 tvg-id="e7d9e0-JazzFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/den_vs_uta_game_recap_030226_thumbnail.png" group-title="Events",Nuggets @ Jazz - Jazz Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/12ea5bd3449bdb40793965acf27d9022
-#EXTINF:-1 tvg-id="e7d9e0-NuggetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/den_vs_uta_game_recap_030226_thumbnail.png" group-title="Events",Nuggets @ Jazz - Nuggets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/b2bd9e4f26bc99ffd6dd837aff44e5df
-#EXTINF:-1 tvg-id="b5f9be-WarriorsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/lac_vs_gsw_game_recap_030226_thumbnail.png" group-title="Events",Clippers @ Warriors - Warriors Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/fa28e4637e9a57a33d4e1f38740b49bb
-#EXTINF:-1 tvg-id="b5f9be-ClippersFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/lac_vs_gsw_game_recap_030226_thumbnail.png" group-title="Events",Clippers @ Warriors - Clippers Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/87dfd1efc4de184ad06bf6033a31e5d2
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
