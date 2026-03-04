@@ -1,4 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
+#EXTINF:-1 tvg-id="95a5f8-LakersFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/nop_vs_lal_game_recap_030326_thumbnail-full.jpeg" group-title="Events",Pelicans @ Lakers - Lakers Feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/5fc8a483e42d9b20b21eb2e55db72194
+#EXTINF:-1 tvg-id="1535f8-KingsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/phx_vs_sac_game_recap_030326_thumbnail.png" group-title="Events",Suns @ Kings - Kings Feed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/702482f7080168a97adbe3aff595aa17
+#EXTINF:-1 tvg-id="661c88-LiveStream" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/muts8i1770240283.jpg" group-title="Events",New Zealand vs. South Africa - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/5c91dd23990bc702116c116f7f9691c3
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
