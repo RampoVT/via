@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="128dbe-English" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/esEu7vbzd218fjHM_768x432.jpg" group-title="Events",India vs England - English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/56980f1745a8ad146a8b4a51f9ef7a19
-#EXTINF:-1 tvg-id="128dbe-Hindi" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/videos/vita/esEu7vbzd218fjHM_768x432.jpg" group-title="Events",India vs England - Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/26a93089beabc4e6006e90058835ef5a
 #EXTINF:-1 tvg-id="bfb608-LiveStream" tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/711C5829-96C1-4267-AED6B06CC93A9763.jpg" group-title="Events",Premier League Darts: Night 5 - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
