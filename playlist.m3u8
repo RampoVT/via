@@ -1,80 +1,20 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="120711-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b2867f53.png" group-title="Events",Lucas Oil Late Model Dirt Series at Golden Isles Speedway - Live Stream
+#EXTINF:-1 tvg-id="03ae98-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9egdto4wml8nteegfzpcaskm6_image-header_pCa_1770286407000/fill/none/top/none/100/1920/1080/webp/image" group-title="Events",Bayern Munich vs Borussia Mgladbach - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/b530d42070448e689330f44ffc32bf7e
-#EXTINF:-1 tvg-id="854396-MagicFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/dal_vs_orl_game_recap_030526_thumbnail-full.jpeg" group-title="Events",Mavericks @ Magic - Magic Feed
+https://hmembeds.one/embed/9fa47c99c4a620715707d22d06c91e2d
+#EXTINF:-1 tvg-id="6b029b-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3eamnge7h17hn2t98ln7mim7a_image-header_pDach_1772016766000/fill/none/top/none/100/1920/1080/webp/image" group-title="Events",PSG vs Monaco - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/d72b0c69bd1498a421af7c8d2e7fa926
-#EXTINF:-1 tvg-id="ef4b47-WizardsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/uta_vs_was_game_recap_030526_thumbnail-full.png" group-title="Events",Jazz @ Wizards - Wizards Feed
+https://hmembeds.one/embed/afdb73c451239369681c5e34207bf17a
+#EXTINF:-1 tvg-id="7e0ae0-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5hcer8g9ikno63nkhutn2mk4j_image-header_pDach_1771594896000/fill/none/top/none/100/1920/1080/webp/image" group-title="Events",Wolverhampton Wanderers vs Liverpool - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/b108be42187b58be880d8449cca7f9b0
-#EXTINF:-1 tvg-id="3aa8cb-HeatFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/bkn_vs_mia_game_recap_030526_thumbnail.png" group-title="Events",Nets @ Heat - Heat Feed
+https://hmembeds.one/embed/frofudrljocldrugudr295ifistlsw1w
+#EXTINF:-1 tvg-id="0a8b8d-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dgvtfgxe8scanxpkbcvxo8115_image-header_pRow_1766572028000/fill/none/top/none/100/1920/1080/webp/image" group-title="Events",Celta de Vigo vs Real Madrid - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/8b3adf59245673b2b838e7e9a63a396b
-#EXTINF:-1 tvg-id="6b2663-RocketsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/gsw_vs_hou_game_recap_030526_thumbnail.png" group-title="Events",Warriors @ Rockets - Rockets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/3c3641a35ddd5c7690f55883a05688c2
-#EXTINF:-1 tvg-id="026c07-TimberwolvesFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/tor_vs_min_game_recap_030526_thumbnail.png" group-title="Events",Raptors @ Timberwolves - Timberwolves Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/b246537a849816b18a104756daf879bc
-#EXTINF:-1 tvg-id="5dd292-SpursFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/det_vs_sas_game_recap_030526_thumbnail.png" group-title="Events",Pistons @ Spurs - Spurs Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/44c547758f812e4520ad96ea121a578a
-#EXTINF:-1 tvg-id="a8a836-SunsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/chi_vs_phx_game_recap_030526_thumbnail.png" group-title="Events",Bulls @ Suns - Suns Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/69f208666fc7715863d7ec72cc6f4b58
-#EXTINF:-1 tvg-id="ccb7ea-NuggetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/lal_vs_den_game_recap_030526_thumbnail.png" group-title="Events",Lakers @ Nuggets - Nuggets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/279dda558c09fde00adf2c2f904cefc6
-#EXTINF:-1 tvg-id="2b1510-KingsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/nop_vs_sac_game_recap_030526_thumbnail.png" group-title="Events",Pelicans @ Kings - Kings Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/f560bb2469c05943fc99d8b908585153
-#EXTINF:-1 tvg-id="4e1c49-AppleTV" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Apple TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/bd584867d975d4c0d70a7d7a452b00ae
-#EXTINF:-1 tvg-id="4e1c49-SkySportsF1" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/888520f36cd94c5da4c71fddc1a5fc9b
-#EXTINF:-1 tvg-id="4e1c49-SkySport3NZ" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Sky Sport 3 NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
-#EXTINF:-1 tvg-id="4e1c49-LeclercCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Leclerc Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/302f0bca1ae8263e7a95850c52334362
-#EXTINF:-1 tvg-id="4e1c49-HamiltonCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Hamilton Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/1ccdf958275b2bbbd3302eac309ff027
-#EXTINF:-1 tvg-id="4e1c49-PiastriCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Piastri Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/6a9e72dbee555c5c371157c2f3b09751
-#EXTINF:-1 tvg-id="4e1c49-AlonsoCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Alonso Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/1c712eff2bdae845191554b1e71926c9
-#EXTINF:-1 tvg-id="4e1c49-NorrisCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Norris Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/f238c618edfeeb97ece980dc8534e5a9
-#EXTINF:-1 tvg-id="4e1c49-VerstappenCam" tvg-logo="https://i.imgur.com/vniFlKb.jpeg" group-title="Events",Formula 1 @ Melbourne GP - Free Practice 2 - Verstappen Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/6a3bd5eb1d3f22535eb331d87a04db8e
+https://hmembeds.one/embed/ae5dt9yh2uj8gp1zwn7fk4ol6mv3cb
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
