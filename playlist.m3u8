@@ -1,16 +1,32 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="7e0ae0-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5hcer8g9ikno63nkhutn2mk4j_image-header_pDach_1771594896000/fill/none/top/none/100/1920/1080/webp/image" group-title="Events",Wolverhampton Wanderers vs Liverpool - Live Stream
+#EXTINF:-1 tvg-id="b765af-LiveStream" tvg-logo="https://images.skyone.co.nz/mac/479214/DAM/0156C0D6-BBAF-43BD-A1CC22B68916E3CB.jpg" group-title="Events",Supercars Championship & Melbourne: QF Races 6 and 7 - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/frofudrljocldrugudr295ifistlsw1w
-#EXTINF:-1 tvg-id="0a8b8d-LiveStream" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dgvtfgxe8scanxpkbcvxo8115_image-header_pRow_1766572028000/fill/none/top/none/100/1920/1080/webp/image" group-title="Events",Celta de Vigo vs Real Madrid - Live Stream
+https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
+#EXTINF:-1 tvg-id="6cdfa0-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/698b7b2867f53.png" group-title="Events",Lucas Oil Late Model Dirt Series at Golden Isles Speedway - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ae5dt9yh2uj8gp1zwn7fk4ol6mv3cb
+https://hmembeds.one/embed/446ac68eaef4291c4e57436190c11351
 #EXTINF:-1 tvg-id="786d04-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/12/05/3-6-26_SC-1764958803378.png" group-title="Events",Talladega Short Track - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/bab53878ba94f2e78a1a8691063e54f4
+#EXTINF:-1 tvg-id="5fb0d5-AppleTV" tvg-logo="https://i.imgur.com/PE82z5E.jpeg" group-title="Events",Formula One: Melbourne GP - Free Practice 3 - Apple TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/db477c4b7fd38af9af5ee6c01bbfd416
+#EXTINF:-1 tvg-id="5fb0d5-SkySportsF1" tvg-logo="https://i.imgur.com/PE82z5E.jpeg" group-title="Events",Formula One: Melbourne GP - Free Practice 3 - Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/888520f36cd94c5da4c71fddc1a5fc9b
+#EXTINF:-1 tvg-id="5fb0d5-SkySport3NZ" tvg-logo="https://i.imgur.com/PE82z5E.jpeg" group-title="Events",Formula One: Melbourne GP - Free Practice 3 - Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
+#EXTINF:-1 tvg-id="af07c4-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/63f3c0d3ded8f.png" group-title="Events",Silver Cup at Silver Dollar Speedway - Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/c41e5ee6ececea78e2ce0218764e640d
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
