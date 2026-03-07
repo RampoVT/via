@@ -3,34 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/446ac68eaef4291c4e57436190c11351
-#EXTINF:-1 tvg-id="fb9973-CelticsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/dal_vs_bos_game_recap_030626_thumbnail-full.png" group-title="Events",Mavericks @ Celtics - Celtics Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/edd28d05f0716135cc7d8461891b6f6d
-#EXTINF:-1 tvg-id="131068-HornetsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/mia_vs_cha_game_recap_030626_thumbnail.png" group-title="Events",Heat @ Hornets - Hornets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/bdb7876e34646cae87633900a893bb12
-#EXTINF:-1 tvg-id="786d04-LiveStream" tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/12/05/3-6-26_SC-1764958803378.png" group-title="Events",Talladega Short Track - Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/bab53878ba94f2e78a1a8691063e54f4
-#EXTINF:-1 tvg-id="fa59d9-RocketsFeed" tvg-logo="https://cdn.nba.com/manage/2026/03/por_vs_hou_game_recap_030626_thumbnail.png" group-title="Events",Trail Blazers @ Rockets - Rockets Feed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/cb95932976091ec0be614db948c12a83
-#EXTINF:-1 tvg-id="5fb0d5-AppleTV" tvg-logo="https://i.imgur.com/PE82z5E.jpeg" group-title="Events",Formula One: Melbourne GP - Free Practice 3 - Apple TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/db477c4b7fd38af9af5ee6c01bbfd416
-#EXTINF:-1 tvg-id="5fb0d5-SkySportsF1" tvg-logo="https://i.imgur.com/PE82z5E.jpeg" group-title="Events",Formula One: Melbourne GP - Free Practice 3 - Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/888520f36cd94c5da4c71fddc1a5fc9b
-#EXTINF:-1 tvg-id="5fb0d5-SkySport3NZ" tvg-logo="https://i.imgur.com/PE82z5E.jpeg" group-title="Events",Formula One: Melbourne GP - Free Practice 3 - Sky Sport 3 NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
 #EXTINF:-1 tvg-id="af07c4-LiveStream" tvg-logo="https://d2779tscntxxsw.cloudfront.net/63f3c0d3ded8f.png" group-title="Events",Silver Cup at Silver Dollar Speedway - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
@@ -51,6 +23,18 @@ https://hmembeds.one/embed/d3753b0d27e492cca5787d9b6069e1f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
 https://hmembeds.one/embed/9d927f74a9d335009e2f2ea778729085
+#EXTINF:-1 tvg-id="5fb0d5-AppleTV" tvg-logo="https://i.imgur.com/5aopeM6.jpeg" group-title="Events",Formula One: Melbourne GP - Qualifying - Apple TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/db477c4b7fd38af9af5ee6c01bbfd416
+#EXTINF:-1 tvg-id="5fb0d5-SkySportsF1" tvg-logo="https://i.imgur.com/5aopeM6.jpeg" group-title="Events",Formula One: Melbourne GP - Qualifying - Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/888520f36cd94c5da4c71fddc1a5fc9b
+#EXTINF:-1 tvg-id="5fb0d5-SkySport3NZ" tvg-logo="https://i.imgur.com/5aopeM6.jpeg" group-title="Events",Formula One: Melbourne GP - Qualifying - Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://timstreams.lol/
+https://hmembeds.one/embed/7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b
 #EXTINF:-1 tvg-id="70f3d7-LiveStream" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/rizintv2/assets/557c94fa-d787-4905-8ba2-2907b5611391.png" group-title="Events",RIZIN.52: Kyoma Akimoto vs. Patchy Mix - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
