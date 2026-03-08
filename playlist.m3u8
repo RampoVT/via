@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/via/main/epg.xml"
-#EXTINF:-1 tvg-id="f52eda-LiveStream" tvg-logo="https://assets.goal.com/images/v3/-Jx8NDVbfbEW-hK19-vX6_DESKTOP/image.jpg?width=1400&upscale=true" group-title="Events",Rangers vs Celtic - Live Stream
+#EXTINF:-1 tvg-id="358ea2-LiveStream" tvg-logo="https://image-scaler.gc.pdcservices.co.uk/fit-in/1280x1280/6ea8d110-be6f-11f0-80b6-e7897a370fda.jpg" group-title="Events",Ladbrokes UK Open (Day 3) - Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
-https://hmembeds.one/embed/ae5dt9yh2uj8gp1zwn7fk4ol6mv3cb
+https://hmembeds.one/embed/31888f775c1212d8c187353bdbe54496
 #EXTINF:-1 tvg-id="3aa3bb-PrimeVideoEnglish" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/wecemo1772961173.jpg" group-title="Events",India vs. New Zealand - Prime Video English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://timstreams.lol/
